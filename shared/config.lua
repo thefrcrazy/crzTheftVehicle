@@ -19,7 +19,7 @@ Config = {
 		anim = "single_team_loop_boss"
 	},
 	waitTime = 15, -- in minute
-	vehicles = {
+	vehicles = { -- The total equal to 100%
 		{ label = "Schafter", name = "schafter2", price = 250, percent = 3.33 },
 		{ label = "Premier", name = "premier", price = 250, percent = 3.33 },
 		{ label = "Gauntlet", name = "gauntlet", price = 250, percent = 3.33 },
